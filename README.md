@@ -8,6 +8,9 @@ git clone https://github.com/petrican/awesome-chat
 
 
 $cd awesome-chat
+
+
+
 $npm start
 
 ...
